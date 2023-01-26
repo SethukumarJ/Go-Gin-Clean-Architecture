@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	config "github.com/thnkrn/go-gin-clean-arch/pkg/config"
-	di "github.com/thnkrn/go-gin-clean-arch/pkg/di"
+	config "github.com/SethukumarJ/go-gin-clean-arch/pkg/config"
+	di "github.com/SethukumarJ/go-gin-clean-arch/pkg/di"
 )
 
 func main() {
