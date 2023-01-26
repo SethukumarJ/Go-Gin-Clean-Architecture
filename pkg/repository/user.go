@@ -3,8 +3,8 @@ package repository
 import (
 	"context"
 
-	domain "github.com/thnkrn/go-gin-clean-arch/pkg/domain"
-	interfaces "github.com/thnkrn/go-gin-clean-arch/pkg/repository/interface"
+	domain "github.com/SethukumarJ/go-gin-clean-arch/pkg/domain"
+	interfaces "github.com/SethukumarJ/go-gin-clean-arch/pkg/repository/interface"
 	"gorm.io/gorm"
 )
 

@@ -3,9 +3,9 @@ package usecase
 import (
 	"context"
 
-	domain "github.com/thnkrn/go-gin-clean-arch/pkg/domain"
-	interfaces "github.com/thnkrn/go-gin-clean-arch/pkg/repository/interface"
-	services "github.com/thnkrn/go-gin-clean-arch/pkg/usecase/interface"
+	domain "github.com/SethukumarJ/go-gin-clean-arch/pkg/domain"
+	interfaces "github.com/SethukumarJ/go-gin-clean-arch/pkg/repository/interface"
+	services "github.com/SethukumarJ/go-gin-clean-arch/pkg/usecase/interface"
 )
 
 type userUseCase struct {
